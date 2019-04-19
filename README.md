@@ -1,0 +1,2 @@
+# OpenShiftNotes
+For Training Purpose
